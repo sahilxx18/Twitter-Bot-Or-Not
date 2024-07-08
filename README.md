@@ -1,13 +1,8 @@
 # Twitter-BotorNot
 
-Machine Learning Coursework Project
+
 
 Aimed at analyzing the effectiveness and performance of different machine learning algorithms in its ability to classify twitter accounts as bots or humans. For obvious reasons, this is treated as classification problem. We evaluated the generalization performance and the predictive performance of all the models on future data. Based on the results we find the best suited machine learning algorithm for the given hypothesis space. 
-
-BaseLine 
-----
-For baseline, Majority class classifier was used which had an accuracy of 0.5037.
-
 
  Decision Tree
  -------
@@ -49,9 +44,3 @@ Comparing Different Models
 ![Alt text](https://github.com/Vignesh6v/Twitter-BotorNot/blob/master/Result.jpeg "Result") 
 
 
-Project Team
--------
-
-* Revanth Mattapalli
-* Varun Elango
-* Vignesh Ramesh
